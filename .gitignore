@@ -1,0 +1,16 @@
+# Compiled binaries
+bin/
+packages/
+
+# User config (credentials)
+MigrarPasswords.exe.config
+
+# Build output
+*.exe
+*.dll
+*.pdb
+
+# IDE
+.vs/
+*.suo
+*.user
